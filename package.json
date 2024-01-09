@@ -1,0 +1,16 @@
+{
+  "name": "random-holidays-msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brandon Rivera <brandocean2016@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-holidays-msg": "./bin/global.js" 
+  },
+  "preferGlobal": true
+}
